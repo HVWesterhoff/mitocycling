@@ -1,0 +1,3 @@
+instructions for Fig 5.  This addresses the effect of NGF addition.  
+Please run the Copasi file called 'Fig5.cps' in its time simulation mode (Click Task, Time course and Run).  The file will automatically plot Fig 5B, 5C and 5E (which may be covering each other).
+Fig. 5D is in the excelfile 'Fig 5D data.xlsx'  Its experimental data derive from Martornana et al., and its computed data from Fig5B in the Copasi file, extracted by clicking Save data in the plot of Fig5B.
